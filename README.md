@@ -4,7 +4,7 @@ macOS Tor IP Changer — automatically rotates your Tor exit IP at a set interva
 
 ## Install
 ```bash
-brew tap ...
+brew tap DeepBlackHole/tools
 brew install dumbaldor
 ```
 
